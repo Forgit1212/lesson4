@@ -18,11 +18,11 @@ public class WildcardDemoApp {
             System.out.println("отличаются");
         }
 
-        System.out.print(" Средние iStats и fStats");
+        System.out.print("Средние iStats и fStats");
         if (iStats.sameAvg(fStats)) {
-            System.out.println(" равны");
+            System.out.println("равны");
         } else {
-            System.out.println(" отличаются");
+            System.out.println("отличаются");
         }
     }
 }
