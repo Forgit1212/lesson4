@@ -23,7 +23,7 @@ public class MainFruits {
 
         Box<Apple> appleBox = new Box<>(apples);
         //Arrays.stream(appleBox.fruits.toArray()).forEach(System.out::println);
-        System.out.println(apples.);
+        //System.out.println(apples.get);
         Box<Orange> orangeBox = new Box<>(oranges);
     }
 }
